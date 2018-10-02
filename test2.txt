@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7456-100E
+
+ Directory of C:\Users\User\Desktop\myproject
+
+02-10-2018  15:49    <DIR>          .
+02-10-2018  15:49    <DIR>          ..
+02-10-2018  15:48               346 test1.txt
+02-10-2018  15:49                 0 test2.txt
+               2 File(s)            346 bytes
+               2 Dir(s)  10,069,528,576 bytes free
